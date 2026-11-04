@@ -1,0 +1,5 @@
+index.src.html
+cards/
+*.json
+*.py
+.DS_Store
